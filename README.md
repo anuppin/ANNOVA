@@ -21,7 +21,7 @@ Installation: Clone the repository and run the setup script.
 
 bash
 
-git clone https://github.com/yourusername/annova.git
+git clone https://github.com/anuppin/annova.git
 cd annova
 ./setup.sh
 Configuration: Adjust configuration settings in the config.yml file to suit your environment.
